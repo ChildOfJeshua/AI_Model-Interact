@@ -24,8 +24,10 @@ How it all began.
 7. Minor Event Handler when Enter is pushed
 8. Visibility handles, with the app mounting.
 5. Revisiting CSS to change up either font or coloring
-6. API reaction and logic is still relatively new but a challenge to knock out nonetheless.
 
+
+
+I also created a to do list overall:
 
 1. (14) Checklist of what to do.
 	1. Plan the layout -- Completed
@@ -42,3 +44,6 @@ How it all began.
 	12. Manage Scroll -- Completed
 	13. Refactor into Components -- Completed 
 	14. Test & Deploy -- Completed
+
+Final Takeaway: 6. API reaction and logic is still relatively new but a challenge to knock out nonetheless.
+
