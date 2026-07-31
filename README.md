@@ -4,8 +4,7 @@ How it all began.
 1. I started with the HTML bare minimum both general and semantic tags.
 2. I created an external CSS page to began styling the tags or components of the page.
 3. I also made certain to include 768px mobile design logic at the ending of CSS code.
-4. I went back into the main HTML page or file and began adding the logic for each section. 
-### 4. Application Structure Breakdown
+4. I went back into the main HTML page or file and began adding the logic for each section.
 
 **4a. First added to the head section:**
 1. Character encode UTF-8
