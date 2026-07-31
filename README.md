@@ -6,20 +6,20 @@ How it all began.
 3. I also made certain to include 768px mobile design logic at the ending of CSS code.
 4. I went back into the main HTML page or file and began adding the logic for each section. 
 	4a. First added to the head section: 
-		- Character encode UTF-8
-		- Responsive scale for mobile devices 
-		- SEO details 
-		- Favicon
-		- Libraries (React, React DOM and Babel) 
+  		 1. Character encode UTF-8
+         2. Responsive scale for mobile devices 
+         3. SEO details 
+         4. Favicon
+         5. Libraries (React, React DOM and Babel) 
 	4b. Body:
-		- Root container entry/import for React to be the content inside
-		- React syntax heads up or React logic script
-		- Message Component Logic (user, ai and system)
-		- Loading Component Logic (Ai is thinking)
-		- App Component and State (TLDR: reaction with the Data like API key, error, pass reaction etc)
-		- Managing Scroll Effect section and logic
-		- Minor Event Handler when Enter is pushed
-		- Visibility handles, with the app mounting.
+        1. Root container entry/import for React to be the content inside
+        2. React syntax heads up or React logic script
+        3. Message Component Logic (user, ai and system)
+        4. Loading Component Logic (Ai is thinking)
+        5. App Component and State (TLDR: reaction with the Data like API key, error, pass reaction etc)
+        6. Managing Scroll Effect section and logic
+        7. Minor Event Handler when Enter is pushed
+        8. Visibility handles, with the app mounting.
 5. Revisiting CSS to change up either font or coloring
 6. API reaction and logic is still relatively new but a challenge to knock out nonetheless.
 
